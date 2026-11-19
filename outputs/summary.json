@@ -1,0 +1,468 @@
+{
+  "rows": {
+    "store": 60,
+    "product": 40,
+    "date": 730,
+    "daily": 10000,
+    "monthly": 1440
+  },
+  "date_range": [
+    "2023-01-01",
+    "2024-12-30"
+  ],
+  "formats": {
+    "High-Street": 58,
+    "Transport-Hub": 2
+  },
+  "regions": 12,
+  "stores_by_region": {
+    "London": 7,
+    "Yorkshire-and-Humber": 6,
+    "East-of-England": 6,
+    "Wales": 6,
+    "South-East": 6,
+    "North-West": 5,
+    "South-West": 5,
+    "East-Midlands": 5,
+    "North-East": 4,
+    "Scotland": 4,
+    "Northern-Ireland": 3,
+    "West-Midlands": 3
+  },
+  "estate": {
+    "revenue_gbp": 89685989.17999999,
+    "net_profit_gbp": 16879504.07,
+    "net_profit_margin_pct": 18.820670011369106,
+    "cogs_gbp": 33983629.38,
+    "rent_gbp": 9302405.91,
+    "staffing_gbp": 27790288.599999998,
+    "loyalty_redemption_gbp": 1730161.2200000002
+  },
+  "yearly": {
+    "revenue": {
+      "2023": 44982189.94,
+      "2024": 44703799.24
+    },
+    "profit": {
+      "2023": 8473165.55,
+      "2024": 8406338.52
+    },
+    "margin_pct": {
+      "2023": 18.8367,
+      "2024": 18.8045
+    }
+  },
+  "by_format": {
+    "revenue": {
+      "Transport-Hub": 3186525.91,
+      "High-Street": 86499463.27
+    },
+    "profit": {
+      "Transport-Hub": 801111.46,
+      "High-Street": 16078392.61
+    },
+    "rev_per_sqft": {
+      "Transport-Hub": 50.0679,
+      "High-Street": 52.4552
+    },
+    "footfall": {
+      "Transport-Hub": 455.4667,
+      "High-Street": 481.9662
+    },
+    "margin_pct": {
+      "Transport-Hub": 25.1406,
+      "High-Street": 18.5879
+    },
+    "loss_month_share_pct": {
+      "Transport-Hub": 4.1667,
+      "High-Street": 11.6379
+    }
+  },
+  "by_region": {
+    "revenue": {
+      "Northern-Ireland": 4436907.14,
+      "West-Midlands": 4599218.71,
+      "Wales": 8854454.13,
+      "East-of-England": 9011244.27,
+      "Yorkshire-and-Humber": 9090630.59,
+      "South-East": 8918824.97,
+      "Scotland": 6186884.36,
+      "East-Midlands": 7590436.54,
+      "North-East": 5846507.21,
+      "South-West": 7525820.54,
+      "North-West": 7167688.43,
+      "London": 10457372.29
+    },
+    "profit": {
+      "Northern-Ireland": 1261503.88,
+      "West-Midlands": 1126683.28,
+      "Wales": 2018601.37,
+      "East-of-England": 1995460.43,
+      "Yorkshire-and-Humber": 1913869.72,
+      "South-East": 1764034.53,
+      "Scotland": 1131847.23,
+      "East-Midlands": 1364426.33,
+      "North-East": 1043584.83,
+      "South-West": 1219372.55,
+      "North-West": 1156200.74,
+      "London": 883919.18
+    },
+    "rev_per_sqft": {
+      "Northern-Ireland": 65.2182,
+      "West-Midlands": 46.454,
+      "Wales": 41.8711,
+      "East-of-England": 53.3637,
+      "Yorkshire-and-Humber": 47.1327,
+      "South-East": 49.8944,
+      "Scotland": 65.232,
+      "East-Midlands": 62.2733,
+      "North-East": 49.3577,
+      "South-West": 63.5726,
+      "North-West": 47.4333,
+      "London": 47.0274
+    },
+    "footfall": {
+      "Northern-Ireland": 475.3403,
+      "West-Midlands": 472.9972,
+      "Wales": 485.5715,
+      "East-of-England": 488.7097,
+      "Yorkshire-and-Humber": 483.2715,
+      "South-East": 477.7444,
+      "Scotland": 448.9448,
+      "East-Midlands": 485.8775,
+      "North-East": 492.4698,
+      "South-West": 472.0808,
+      "North-West": 486.6683,
+      "London": 488.4833
+    },
+    "margin_pct": {
+      "Northern-Ireland": 28.4321,
+      "West-Midlands": 24.4973,
+      "Wales": 22.7976,
+      "East-of-England": 22.1441,
+      "Yorkshire-and-Humber": 21.0532,
+      "South-East": 19.7788,
+      "Scotland": 18.2943,
+      "East-Midlands": 17.9756,
+      "North-East": 17.8497,
+      "South-West": 16.2025,
+      "North-West": 16.1307,
+      "London": 8.4526
+    },
+    "loss_month_share_pct": {
+      "Northern-Ireland": 6.9444,
+      "West-Midlands": 8.3333,
+      "Wales": 4.8611,
+      "East-of-England": 8.3333,
+      "Yorkshire-and-Humber": 6.25,
+      "South-East": 8.3333,
+      "Scotland": 8.3333,
+      "East-Midlands": 14.1667,
+      "North-East": 8.3333,
+      "South-West": 15.0,
+      "North-West": 15.8333,
+      "London": 25.5952
+    }
+  },
+  "loyalty": {
+    "corr_adoption_member_pct": 0.998370470865216,
+    "corr_adoption_atv": -0.06285805829016573,
+    "member_spend_gbp": 29769500.729999997,
+    "redemption_gbp": 1730161.2200000002,
+    "net_contribution_gbp": 28039339.509999998,
+    "member_share_of_revenue_pct": 33.19303383079439,
+    "redemption_share_of_revenue_pct": 1.9291321150816128
+  },
+  "loyalty_by_format": {
+    "adoption": {
+      "High-Street": 0.3283,
+      "Transport-Hub": 0.4575
+    },
+    "member_pct": {
+      "High-Street": 0.3284,
+      "Transport-Hub": 0.4488
+    }
+  },
+  "mix": {
+    "espresso_revenue_gbp": {
+      "gbp": 9346953.459999999,
+      "pct": 45.69823935511575
+    },
+    "filter_revenue_gbp": {
+      "gbp": 3924072.3200000003,
+      "pct": 19.18520263244623
+    },
+    "food_revenue_gbp": {
+      "gbp": 5332403.73,
+      "pct": 26.070683141248047
+    },
+    "retail_beans_revenue_gbp": {
+      "gbp": 1850210.7,
+      "pct": 9.045874871189984
+    }
+  },
+  "mix_by_year_pct": {
+    "espresso_revenue_gbp": {
+      "2023": 45.831,
+      "2024": 45.564
+    },
+    "filter_revenue_gbp": {
+      "2023": 19.032,
+      "2024": 19.341
+    },
+    "food_revenue_gbp": {
+      "2023": 26.241,
+      "2024": 25.897
+    },
+    "retail_beans_revenue_gbp": {
+      "2023": 8.896,
+      "2024": 9.198
+    }
+  },
+  "product_margin_by_category": {
+    "mean": {
+      "Cold-Drinks": 81.348,
+      "Espresso-Drinks": 83.898,
+      "Filter-Coffee": 88.31,
+      "Food": 73.986,
+      "Merchandise": 70.179,
+      "Retail-Beans": 67.693
+    },
+    "min": {
+      "Cold-Drinks": 77.143,
+      "Espresso-Drinks": 80.682,
+      "Filter-Coffee": 85.714,
+      "Food": 70.833,
+      "Merchandise": 67.857,
+      "Retail-Beans": 66.0
+    },
+    "max": {
+      "Cold-Drinks": 85.0,
+      "Espresso-Drinks": 87.5,
+      "Filter-Coffee": 90.385,
+      "Food": 75.172,
+      "Merchandise": 72.5,
+      "Retail-Beans": 69.412
+    },
+    "count": {
+      "Cold-Drinks": 4,
+      "Espresso-Drinks": 12,
+      "Filter-Coffee": 4,
+      "Food": 10,
+      "Merchandise": 2,
+      "Retail-Beans": 8
+    }
+  },
+  "bank_holiday": {
+    "rows": {
+      "False": 9755,
+      "True": 245
+    },
+    "avg_revenue": {
+      "False": 2062.09,
+      "True": 1379.381
+    }
+  },
+  "bank_holiday_by_format": {
+    "rows": {
+      "('High-Street', False)": 9449,
+      "('High-Street', True)": 237,
+      "('Transport-Hub', False)": 306,
+      "('Transport-Hub', True)": 8
+    },
+    "avg_revenue": {
+      "('High-Street', False)": 2046.27,
+      "('High-Street', True)": 1365.389,
+      "('Transport-Hub', False)": 2550.609,
+      "('Transport-Hub', True)": 1793.903
+    }
+  },
+  "weekend": {
+    "rows": {
+      "False": 7188,
+      "True": 2812
+    },
+    "avg_revenue": {
+      "False": 2195.853,
+      "True": 1660.685
+    }
+  },
+  "quarterly": {
+    "revenue": {
+      "('2023', 1)": 11330552.47,
+      "('2023', 2)": 11232985.55,
+      "('2023', 3)": 11338960.89,
+      "('2023', 4)": 11079691.03,
+      "('2024', 1)": 11411236.87,
+      "('2024', 2)": 11020515.14,
+      "('2024', 3)": 10899361.37,
+      "('2024', 4)": 11372685.86
+    },
+    "profit": {
+      "('2023', 1)": 2130509.23,
+      "('2023', 2)": 2151397.52,
+      "('2023', 3)": 2208462.2,
+      "('2023', 4)": 1982796.6,
+      "('2024', 1)": 2272879.99,
+      "('2024', 2)": 2028476.63,
+      "('2024', 3)": 1886469.46,
+      "('2024', 4)": 2218512.44
+    }
+  },
+  "best_months": {
+    "('2024', '11')": 816898.08,
+    "('2023', '07')": 807736.93,
+    "('2024', '03')": 799319.2,
+    "('2023', '04')": 761388.17,
+    "('2024', '10')": 744435.48
+  },
+  "worst_months": {
+    "('2023', '11')": 564015.17,
+    "('2024', '07')": 611203.89,
+    "('2024', '05')": 619729.55,
+    "('2024', '09')": 634821.65,
+    "('2024', '08')": 640443.92
+  },
+  "top_improvers": [
+    {
+      "store_name": "Sunrise Coffee Belfast Yard",
+      "store_format": "High-Street",
+      "region": "Northern-Ireland",
+      "2023": 150444.03,
+      "2024": 267233.65,
+      "change": 116789.62
+    },
+    {
+      "store_name": "Sunrise Coffee Liverpool Collective",
+      "store_format": "High-Street",
+      "region": "North-West",
+      "2023": 80689.73,
+      "2024": 197186.52,
+      "change": 116496.79
+    },
+    {
+      "store_name": "Sunrise Coffee Cheltenham Quarter",
+      "store_format": "High-Street",
+      "region": "South-West",
+      "2023": 94809.96,
+      "2024": 185034.29,
+      "change": 90224.33
+    },
+    {
+      "store_name": "Sunrise Coffee Ipswich House",
+      "store_format": "High-Street",
+      "region": "East-of-England",
+      "2023": 98354.53,
+      "2024": 176370.59,
+      "change": 78016.06
+    },
+    {
+      "store_name": "Sunrise Coffee Reading Hub",
+      "store_format": "High-Street",
+      "region": "South-East",
+      "2023": 148060.19,
+      "2024": 222801.42,
+      "change": 74741.23
+    }
+  ],
+  "top_deteriorators": [
+    {
+      "store_name": "Sunrise Coffee Bristol Station",
+      "store_format": "High-Street",
+      "region": "South-West",
+      "2023": 256524.8,
+      "2024": 115228.0,
+      "change": -141296.8
+    },
+    {
+      "store_name": "Sunrise Coffee South London Corner",
+      "store_format": "High-Street",
+      "region": "London",
+      "2023": 28649.33,
+      "2024": -79143.91,
+      "change": -107793.24
+    },
+    {
+      "store_name": "Sunrise Coffee Chester House",
+      "store_format": "High-Street",
+      "region": "North-West",
+      "2023": 219178.75,
+      "2024": 127560.59,
+      "change": -91618.16
+    },
+    {
+      "store_name": "Sunrise Coffee Southampton House",
+      "store_format": "High-Street",
+      "region": "South-East",
+      "2023": 162610.55,
+      "2024": 84652.17,
+      "change": -77958.38
+    },
+    {
+      "store_name": "Sunrise Coffee Derry Station",
+      "store_format": "High-Street",
+      "region": "Northern-Ireland",
+      "2023": 268511.63,
+      "2024": 195116.8,
+      "change": -73394.83
+    }
+  ],
+  "status_latest": {
+    "Profitable": 23,
+    "Break-Even": 17,
+    "Highly-Profitable": 12,
+    "Loss-Making": 7,
+    "Structural-Loss": 1
+  },
+  "loss_stores_latest": 8,
+  "loss_by_region_latest": {
+    "East-Midlands": 3,
+    "East-of-England": 1,
+    "London": 1,
+    "North-East": 0,
+    "North-West": 0,
+    "Northern-Ireland": 0,
+    "Scotland": 1,
+    "South-East": 1,
+    "South-West": 0,
+    "Wales": 0,
+    "West-Midlands": 0,
+    "Yorkshire-and-Humber": 1
+  },
+  "structural_store_latest": [
+    {
+      "store_name": "Sunrise Coffee Dundee Station",
+      "region": "Scotland",
+      "net_profit_gbp": -16931.96
+    }
+  ],
+  "quality": {
+    "category_sum_exact_pct": 100.0,
+    "net_profit_exact_pct": 100.0,
+    "atv_within_rounding_pct": 100.0,
+    "atv_max_abs_pct_gap": 0.11835278129035398,
+    "nulls": {
+      "loyalty_member_revenue_pct": 0,
+      "avg_daily_footfall": 0,
+      "seating_capacity": 0
+    },
+    "dim_date_columns": [
+      "date_id",
+      "full_date",
+      "year",
+      "month_number",
+      "month_name",
+      "quarter",
+      "week_number",
+      "day_of_week",
+      "is_weekend",
+      "is_uk_bank_holiday",
+      "uk_trading_calendar"
+    ],
+    "daily_extra_vs_dictionary": [
+      "avg_dwell_time_minutes"
+    ],
+    "daily_store_days": 10000,
+    "possible_store_days": 43800
+  }
+}
